@@ -79,14 +79,14 @@ status    : Open to learning, collaboration, and new projects
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">Project One</a></h4>
-      <p>One-line description of what it does and why it matters.</p>
+      <h4><a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">Ongoing</a></h4>
+      <p>Ongoing Project.</p>
       <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=3FB950" alt="HTML" />
       <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=3FB950" alt="CSS" />
     </td>
     <td width="50%" valign="top">
-      <h4><a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">Project Two</a></h4>
-      <p>One-line description of what it does and why it matters.</p>
+      <h4><a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">Ongoing</a></h4>
+      <p>Ongoing Project.</p>
       <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=3FB950" alt="Linux" />
     </td>
   </tr>
