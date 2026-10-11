@@ -15,7 +15,7 @@
 <pre>
 ~/about $ cat profile.txt
 name      : usr-Chr0nos
-role      :Student / Aspiring Developer
+role      : Student / Aspiring Developer
 location  : Who Knows?
 focus     : Linux, Web development
 status    : Open to learning, collaboration, and new projects
