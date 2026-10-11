@@ -21,7 +21,7 @@ focus     : Linux, Web development
 status    : Open to learning, collaboration, and new projects
 </pre>
 
-
+<!----
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=usr-Chr0nos&label=Profile+views&color=3FB950&style=flat-square" alt="profile views" />
   <img src="https://img.shields.io/github/followers/usr-Chr0nos?label=Followers&style=flat-square&color=3FB950&labelColor=0d1117" alt="followers" />
@@ -29,6 +29,7 @@ status    : Open to learning, collaboration, and new projects
 
 <hr />
 
+-->
 
 <!-- ============ TECH STACK ============ -->
 <h3 align="left"><code>&gt; TECH STACK</code></h3>
@@ -54,17 +55,22 @@ status    : Open to learning, collaboration, and new projects
 <table>
   <tr>
     <td align="center" width="33%">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTL7LINHLhiSFHr2u5NOFEvorLnegoXM68-p93f9EHVdw&s=10" height="90" alt="Arch Linux" />
+      <img src="Linux Icons/Arch3d.gif" height="90" alt="Arch Linux" />
       <br />
       <b>Arch Linux</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_gi2xiIDzxESt-3fcQzdyjlZTvisZuBwHZ5Pl1QlGnA&s=10" height="90" alt="Linux Mint" />
+      <img src="Linux Icons/mint3d.gif" height="90" alt="Linux Mint" />
       <br />
       <b>Linux Mint</b>
     </td>
     <td align="center" width="33%">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR5bzIzeTBzMGtob29iYmk0cWNtMjB6bjlnamxtaHUwNXFsaHA2OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlD6X5Pi5EKDmbm/giphy.gif" height="90" alt="Windows" />
+      <img src="Linux Icons/ubuntu3d.gif" height="90" alt="Ubuntu" />
+      <br />
+      <b>Ubuntu</b>
+    </td>
+    <td align="center" width="33%">
+      <img src="Linux Icons/windows3d.gif" height="90" alt="Windows" />
       <br />
       <b>Windows</b>
     </td>
@@ -81,13 +87,10 @@ status    : Open to learning, collaboration, and new projects
     <td width="50%" valign="top">
       <h4><a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">Ongoing</a></h4>
       <p>Ongoing Project.</p>
-      <img src="https://img.shields.io/badge/HTML-0d1117?style=flat-square&logo=html5&logoColor=3FB950" alt="HTML" />
-      <img src="https://img.shields.io/badge/CSS-0d1117?style=flat-square&logo=css3&logoColor=3FB950" alt="CSS" />
     </td>
     <td width="50%" valign="top">
       <h4><a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">Ongoing</a></h4>
       <p>Ongoing Project.</p>
-      <img src="https://img.shields.io/badge/Linux-0d1117?style=flat-square&logo=linux&logoColor=3FB950" alt="Linux" />
     </td>
   </tr>
 </table> 
