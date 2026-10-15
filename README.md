@@ -8,7 +8,7 @@
 
 <h2 align="left">
   <a href="https://github.com/usr-Chr0nos">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=3FB950&background=00000000&vCenter=true&width=600&height=50&lines=%24+echo+%22Welcome+to+my+world%22;%24+whoami+%3E+usr-Chr0nos;%24+cat+interests+%3E+Linux%2C+Web%2C+Open+Source;%24+git+commit+-m+%22I+accept+Challenges%22;%24+git+commit+-m+%22+Entering+Github+%22" alt="Welcome to my world" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1200&color=3FB950&background=00000000&vCenter=true&width=800&height=50&lines=%24+echo+%22Welcome+to+my+world%22;%24+whoami+%3E+usr-Chr0nos;%24+cat+interests+%3E+Linux%2C+Web+Development+%2C+Open+Source;%24+git+commit+-m+%22I+accept+Challenges%22;%24+git+commit+-m+%22+Entering+Github+%22" alt="Welcome to my world" />
   </a>
 </h2>
 
