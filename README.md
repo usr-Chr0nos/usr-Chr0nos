@@ -17,7 +17,7 @@
 name      : usr-Chr0nos
 role      : Student / Aspiring Developer
 location  : Who Knows?
-focus     : Linux, Web development
+focus     : Linux, Web development, Cybersecurity
 status    : Open to learning, collaboration, and new projects
 </pre>
 
