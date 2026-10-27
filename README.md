@@ -75,10 +75,14 @@ status    : Open to learning, collaboration, and new projects
       <b>Windows</b>
     </td>
   </tr>
+      </td>
+    <td align="center" width="33%">
+      <img src="Linux Icons/debian3d.gif" height="90" alt="Debian" />
+      <br />
+      <b>Windows</b>
+    </td>
 </table>
-
 <hr />
-
 <!-- ============ FEATURED PROJECTS ============ -->
 <h3 align="left"><code>&gt; FEATURED PROJECTS</code></h3>
 
