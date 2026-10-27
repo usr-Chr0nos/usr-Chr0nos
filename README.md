@@ -79,7 +79,7 @@ status    : Open to learning, collaboration, and new projects
     <td align="center" width="33%">
       <img src="Linux Icons/debian3d.gif" height="90" alt="Debian" />
       <br />
-      <b>Windows</b>
+      <b>Debian</b>
     </td>
 </table>
 <hr />
